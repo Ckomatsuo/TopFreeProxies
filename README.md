@@ -64,4 +64,4 @@
 
 ## 星标统计
 
-[![Stargazers over time](https://starchart.cc/alanbobs999/TopFreeProxies.svg)](https://starchart.cc/alanbobs999/TopFreeProxies)
+[![Stargazers over time](https://starchart.cc/Ckomatsuo/TopFreeProxies.svg)](https://starchart.cc/alanbobs999/TopFreeProxies)
