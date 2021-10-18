@@ -1,0 +1,17 @@
+proxies:
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 146.56.187.13, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 146.56.187.13}}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 138.3.220.41, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 138.3.220.41}}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: hk1.v3.zz.cn.fuckword.club, port: 47605, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 3.sg.zz.xxxxx.x-t-fuckword.network, port: 36679, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 62.216.92.180, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 3.hk.zz.xxxxx.x-t-fuckword.network, port: 36681, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 62.216.92.180, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 62.216.92.179, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 45.66.134.219, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 45.66.134.219, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 62.216.92.179, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 72.167.45.6, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 3.jp.zz.xxxxx.x-t-fuckword.network, port: 36675, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 2.jp.zz.xxxxx.x-t-fuckword.network, port: 36671, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 5.183.177.111, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}
+- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 185.171.120.144, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}

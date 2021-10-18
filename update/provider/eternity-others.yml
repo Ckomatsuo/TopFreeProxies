@@ -1,0 +1,31 @@
+proxies:
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 146.56.187.13, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 146.56.187.13}}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 168.138.28.215, port: 80, type: vmess, uuid: 0e1b66d4-97a0-46f4-e8ee-ea2c15860ac6, alterId: 16, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /BEN, ws-headers: {Host: 168.138.28.215}}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 66.42.107.33, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 66.42.107.33}}
+- {name: 🇹🇭 泰国-曼谷-曼谷-ss-27.131.164.94:48970, server: 27.131.164.94, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 27.131.164.94, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.165, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: ss3, server: 193.118.60.171, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 🇬🇧_GB_英国_3（欢迎订阅youtube：8度科技）, server: 89.238.130.227, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 145.239.1.137, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.170, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.173, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.176, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.177, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 🇩🇰 丹麦-哥本哈根-0-ss-193.29.107.125:33992, server: 193.29.107.125, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+- {name: 🇹🇭 泰国-曼谷-曼谷-ss-27.131.164.94:49514, server: 27.131.164.94, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+- {name: 🇮🇹_IT（欢迎订阅youtube：8度科技）, server: 82.102.26.94, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+- {name: "ZZ_15434 |181.21Mb", server: 134.195.196.130, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 167.88.63.108, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.170, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.182, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 5.253.207.51, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 85.10.56.192, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+- {name: "ZZ_15974 |102.85Mb", server: 134.195.196.154, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: ca（欢迎订阅youtube：8度科技）, server: 134.195.196.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: github.com/freefq - 瑞典  58, server: 167.88.63.119, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 🇬🇧 英国-伦敦-伦敦-ss-193.118.60.179:7307, server: 193.118.60.179, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 🇩🇰 丹麦-哥本哈根-0-ss-193.29.107.125:46726, server: 193.29.107.125, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 38.107.226.146, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 51.77.52.206, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 51.77.52.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
