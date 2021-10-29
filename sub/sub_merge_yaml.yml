@@ -1,542 +1,421 @@
 proxies:
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.169.112.168, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 香港(欢迎订阅Youtube破解资源君), server: 3.sg.zz.xxxxx.x-t-fuckword.network, port: 36679, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, sni: 3.sg.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.134.224.18, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-- {name: 泰国(欢迎订阅Youtube破解资源君), server: 27.131.164.94, port: 39556, type: ss, cipher: aes-256-gcm, password: g4AfpNELpdYEeLYhM8XCX9se}
-- {name: 香港(欢迎订阅Youtube破解资源君), server: 3.jp.zz.xxxxx.x-t-fuckword.network, port: 36675, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, sni: 3.jp.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
-- {name: 香港(欢迎订阅Youtube破解资源君), server: 2.jp.zz.xxxxx.x-t-fuckword.network, port: 36671, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, sni: 2.jp.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
-- {name: 香港(欢迎订阅Youtube破解资源君), server: hkt01.hk.zz.xxxxx.x-t-fuckword.network, port: 56812, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, sni: hkt01.hk.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
-- {name: 香港(欢迎订阅Youtube破解资源君), server: 3.hk.zz.xxxxx.x-t-fuckword.network, port: 36681, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, sni: 3.hk.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 192.169.112.166, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 198.57.27.225, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 84.17.35.103, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-- {name: 韩国(欢迎订阅Youtube破解资源君), server: 45.130.137.28, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 38.39.192.74, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 泰国(欢迎订阅Youtube破解资源君), server: 27.131.164.100, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 185.242.5.157, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: 泰国(欢迎订阅Youtube破解资源君), server: 27.131.164.94, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 167.88.63.61, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 193.29.107.123, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: ss3.ssrsub.com, port: 40443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 91.90.123.117, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.171, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 82.102.26.94, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 38.107.226.146, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 38.107.226.159, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.12.223.195, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 38.107.226.241, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 209.216.92.200, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 38.107.226.238, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 91.219.215.69, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 91.90.123.117, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 85.10.56.192, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.133.193.219, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 5.187.49.187, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: morton0.herokuapp.com, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: morton0.herokuapp.com}}
-- {name: 罗马(欢迎订阅Youtube破解资源君), server: 91.90.123.150, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.176, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: //dlj.tf/ssrsub, port: ss4.ssrsub.com, type: ss, cipher: aes-128-gcm, password: https}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.149, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.89, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.175, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.177, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 82.102.26.93, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.169.112.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.154.254.135, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.169.112.179, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.177.136, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 198.147.22.163, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.246, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 5.39.70.138, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 5.157.13.93, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 台湾(欢迎订阅Youtube破解资源君), server: 2.58.241.131, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 150.230.45.118, port: 80, type: vmess, uuid: 9e1af19d-b520-45d8-babb-a797b8db3f18, alterId: 16, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /BEN, ws-headers: {Host: 150.230.45.118}}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 193.29.107.123, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 198.147.22.167, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 5.39.70.138, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 13.213.251.185, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.74, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.169.112.168, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 38.107.226.149, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 罗马(欢迎订阅Youtube破解资源君), server: 79.110.54.133, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.12.223.195, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.55.72, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.57.249, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.69, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.166.84.83, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 泰国(欢迎订阅Youtube破解资源君), server: 27.131.164.100, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 198.57.27.241, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 91.245.254.75, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.152, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 196.244.191.195, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 37.19.211.117, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.205, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.46.211.249, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 38.107.226.238, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.147, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.166.84.59, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 196.244.191.195, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.165, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.153, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 154.16.171.213, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.154.248.179, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-- {name: 韩国(欢迎订阅Youtube破解资源君), server: 45.130.137.14, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.186, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 91.245.254.131, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 172.99.190.90, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.186, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 84.17.53.86, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.97, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 145.239.1.137, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.97, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 美国(欢迎订阅Youtube破解资源君), server: 172.107.233.230, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.182.79, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 198.57.27.218, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.152, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 51.77.53.200, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.232, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.198.252, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.154, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.171, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.174, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 146.56.118.208, port: 80, type: vmess, uuid: 1d6e5f77-9af4-4709-dcbc-4fa280b32110, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ben, ws-headers: {Host: 146.56.118.208}}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 167.88.63.11, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 172.105.172.41, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.182.79, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.182.77, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 209.216.92.222, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.108, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 38.39.192.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.177.141, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.186, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.134.224.15, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 196.244.191.195, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 31.169.121.5, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 104.200.131.249, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 51.89.99.52, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 155.254.29.165, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.188, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.107, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 198.147.22.147, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 209.216.92.215, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: 罗马(欢迎订阅Youtube破解资源君), server: 193.29.107.125, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.163, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 191.96.13.200, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.166, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 印度(欢迎订阅Youtube破解资源君), server: 103.94.27.101, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.177.156, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 209.216.92.212, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.163, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
 - {name: 美国(欢迎订阅Youtube破解资源君), server: 45.87.214.253, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.230, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 韩国(欢迎订阅Youtube破解资源君), server: 45.130.137.26, port: 44102, type: ss, cipher: aes-256-gcm, password: zHKYS9DeAjvv43EwgDfyEg4d}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 51.159.30.61, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.69, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 172.105.172.37, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 印度(欢迎订阅Youtube破解资源君), server: 192.46.211.249, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 51.77.52.74, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 66.115.177.143, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.92, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.198.252, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 198.57.27.247, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 128.14.222.215, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 212.102.44.86, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.28, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.230, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.35, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.7, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.163, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.166.84.59, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.175, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 印度(欢迎订阅Youtube破解资源君), server: 45.79.122.28, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 台湾(欢迎订阅Youtube破解资源君), server: 103.152.151.85, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 79.110.53.205, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.57, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.119, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.82, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.81, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.166.84.63, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 51.77.52.206, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.176, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.167, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 172.99.190.139, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.246, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.205, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.50, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.232, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.46.211.249, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 194.76.137.107, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.177.156, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 198.57.27.225, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 198.57.27.233, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.133, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 91.245.254.21, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 178.33.195.2, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.166.84.31, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 128.14.222.218, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 196.196.203.107, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 37.120.148.229, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 128.14.222.220, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.104.206.241, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.110, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 198.57.27.243, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.71, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 193.29.107.125, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.174.159.138, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.38.55, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 148.72.174.48, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.130, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.154.254.135, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.177.156, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.198.250, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.164.34.252, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-- {name: 印度(欢迎订阅Youtube破解资源君), server: 103.94.27.181, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.59.32, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.63.34, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 148.72.174.46, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 37.19.199.209, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.92, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.182.77, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.198.195, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.198.252, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.12.223.195, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 196.196.150.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.174.159.61, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-- {name: 新加坡(欢迎订阅Youtube破解资源君), server: 89.187.163.217, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 146.70.27.12, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 5.253.207.51, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 51.77.52.206, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 美国(欢迎订阅Youtube破解资源君), server: 209.216.92.212, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 91.205.230.133, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
-- {name: 日本(欢迎订阅Youtube破解资源君), server: 45.85.3.149, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 134.195.196.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 148.72.171.180, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.109, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 5.253.207.51, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 85.10.56.192, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 148.72.174.48, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
 - {name: 美国(欢迎订阅Youtube破解资源君), server: 172.107.233.234, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 法国(欢迎订阅Youtube破解资源君), server: 163.172.110.53, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.174.159.133, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: 日本(欢迎订阅Youtube破解资源君), server: 89.31.126.155, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 37.19.199.209, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.198.195, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 印度(欢迎订阅Youtube破解资源君), server: 103.94.27.101, port: 35371, type: ss, cipher: aes-256-gcm, password: pjeDhAJGuML8xKUxcjRqq6a9}
 - {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.198.95, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.51, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 152.89.160.61, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: //dlj.tf/ssrsub, port: ss4.ssrsub.com, type: ss, cipher: aes-128-gcm, password: https}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.174.159.133, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 139.28.218.93, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 62.212.239.67, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.171, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 俄罗斯(欢迎订阅Youtube破解资源君), server: t4.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, skip-cert-verify: false}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.152, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.186, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 91.205.230.133, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 163.172.110.53, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: ss3.ssrsub.com, port: 40443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.69, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.152, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.176, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.186, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.108.106.148, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 185.242.5.157, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.174.159.138, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: t5.ssrsub.com, port: 8443, type: trojan, password: 9f665f12-29a2-4ff7-a456-c41f9443e8a7, sni: t5.ssrsub.com, skip-cert-verify: false}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 62.212.239.53, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 51.159.30.61, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.167, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.110, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 18.162.56.143, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 18.162.56.143}}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.166.84.31, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 172.105.172.41, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 罗马(欢迎订阅Youtube破解资源君), server: 193.29.107.125, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 196.244.191.195, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: v7.ssrsub.com, port: 158, type: vmess, uuid: 6270e596-dfa0-48a3-aad0-613ce89724b4, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v7.ssrsub.com}}
+- {name: 香港(欢迎订阅Youtube破解资源君), server: 2.jp.zz.xxxxx.x-t-fuckword.network, port: 36671, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, sni: 2.jp.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 82.102.26.94, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 37.120.148.229, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.166.84.31, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 62.210.38.178, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 212.102.44.86, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.177.141, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 191.96.13.200, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 185.166.84.57, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+- {name: 新加坡(欢迎订阅Youtube破解资源君), server: 89.187.163.197, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.225.28.69, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 172.105.172.37, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 泰国(欢迎订阅Youtube破解资源君), server: 27.131.164.100, port: 40220, type: ss, cipher: aes-256-gcm, password: ugyBkSEFxVEmUYSHyvxmWNj9}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.164.34.252, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 82.102.26.93, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.174.159.61, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 31.169.121.5, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+- {name: 泰国(欢迎订阅Youtube破解资源君), server: 27.131.164.94, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+- {name: 泰国(欢迎订阅Youtube破解资源君), server: 27.131.164.94, port: 39556, type: ss, cipher: aes-256-gcm, password: g4AfpNELpdYEeLYhM8XCX9se}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.169.112.168, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.177.136, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+- {name: 泰国(欢迎订阅Youtube破解资源君), server: 27.131.164.100, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 150.230.45.118, port: 80, type: vmess, uuid: 9e1af19d-b520-45d8-babb-a797b8db3f18, alterId: 16, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /BEN, ws-headers: {Host: 150.230.45.118}}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: morton0.herokuapp.com, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: morton0.herokuapp.com}}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 13.213.251.185, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
+- {name: 日本(欢迎订阅Youtube破解资源君), server: 45.85.3.149, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.130.137.14, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 104.22.3.3, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 66.115.177.156, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.130, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 194.150.167.30, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: v4.ssrsub.com, port: 158, type: vmess, uuid: 9f665f12-29a2-4ff7-a456-c41f9443e8a7, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v4.ssrsub.com}}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 104.22.44.50, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.57.249, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 印度(欢迎订阅Youtube破解资源君), server: 192.46.211.249, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.134.224.18, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.104.206.241, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 194.150.167.48, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.134.224.15, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.67.209.58, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.38.55, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 138.3.223.55, port: 80, type: vmess, uuid: a4ccc877-31f2-4d5f-de48-63eefd43d644, alterId: 16, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /BEN, ws-headers: {Host: 138.3.223.55}}
+- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.59.32, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 66.115.177.143, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.55.72, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.133.193.219, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.104.206.241, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 104.20.130.175, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 158.101.90.133, port: 80, type: vmess, uuid: b7b41bdd-3a39-4cd5-ea16-261c6c1b01af, alterId: 16, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /BEN, ws-headers: {Host: 158.101.90.133}}
+- {name: 印度(欢迎订阅Youtube破解资源君), server: 172.105.63.34, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 185.153.151.195, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.130.137.3, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 212.102.40.68, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 103.39.132.189, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+- {name: 日本(欢迎订阅Youtube破解资源君), server: 84.17.34.44, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+- {name: 印度(欢迎订阅Youtube破解资源君), server: 45.79.122.28, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.177, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 146.56.118.208, port: 80, type: vmess, uuid: 1d6e5f77-9af4-4709-dcbc-4fa280b32110, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ben, ws-headers: {Host: 146.56.118.208}}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 104.19.45.117, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.167, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.169.112.179, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: cyberpunk2077freedownload.herokuapp.com, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cyberpunk2077freedownload.herokuapp.com}}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 51.89.99.52, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 45.12.223.195, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+- {name: 俄罗斯(欢迎订阅Youtube破解资源君), server: t7.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, skip-cert-verify: false}
+- {name: 台湾(欢迎订阅Youtube破解资源君), server: 2.58.241.131, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
 - {name: 欧洲(欢迎订阅Youtube破解资源君), server: 128.14.222.216, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: us（感谢关注youtube：8度科技）, server: nn-ssr4.feiclouddd.me, port: 443, type: vmess, uuid: 79214731-7f0c-4f2d-a894-13b7df293624, alterId: 60, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /sadfasdf, ws-headers: {Host: nn-ssr4.feiclouddd.me}}
-- {name: 匈牙利 佩斯（感谢关注youtube：8度科技）, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 185.225.69.134}}
-- {name: 匈牙利 佩斯（感谢关注youtube：8度科技）, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 185.225.69.134}}
-- {name: ca（欢迎订阅youtube：8度科技）, server: 134.195.196.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: ca（欢迎订阅youtube：8度科技）, server: 134.195.196.163, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 🇮🇹IT（欢迎订阅youtube：8度科技）, server: 82.102.26.93, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-- {name: 🇮🇹IT（欢迎订阅youtube：8度科技）, server: 82.102.26.93, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-- {name: 🇮🇹IT（欢迎订阅youtube：8度科技）, server: 82.102.26.93, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-- {name: 🇮🇹IT（欢迎订阅youtube：8度科技）, server: 82.102.26.93, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-- {name: 🇮🇹IT（欢迎订阅youtube：8度科技）, server: 82.102.26.93, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
-- {name: 🇮🇹IT（欢迎订阅youtube：8度科技）, server: 82.102.26.93, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 192.169.112.166, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 154.17.2.130, port: 18335, type: ss, cipher: chacha20-ietf-poly1305, password: n3aRFACF8u5AaC7R6ey3lyDDacCSOYzYEqgB0xSxeD43IlOpj3X9STp2ZNK8wZ}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 128.14.222.211, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 196.196.150.83, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.169.112.168, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 罗马(欢迎订阅Youtube破解资源君), server: 91.90.123.155, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 176.125.231.5, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.174, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.166, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 104.200.131.249, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+- {name: 罗马(欢迎订阅Youtube破解资源君), server: 79.110.54.133, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.82, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.119, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 罗马(欢迎订阅Youtube破解资源君), server: 91.90.123.117, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+- {name: 新加坡(欢迎订阅Youtube破解资源君), server: 89.187.163.217, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 198.57.27.218, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 日本(欢迎订阅Youtube破解资源君), server: 89.31.126.155, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.171, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 104.16.181.15, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 192.169.112.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 104.18.7.138, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 198.57.27.233, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 156.146.56.137, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 193.29.107.123, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+- {name: 台湾(欢迎订阅Youtube破解资源君), server: 103.152.151.85, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.50, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.175, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 法国(欢迎订阅Youtube破解资源君), server: 178.33.195.2, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+- {name: 印度(欢迎订阅Youtube破解资源君), server: 103.94.27.181, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+- {name: 加拿大(欢迎订阅Youtube破解资源君), server: 134.195.196.81, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 罗马(欢迎订阅Youtube破解资源君), server: 79.110.54.133, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 79.110.53.205, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 172.99.190.230, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.175, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 150.230.43.190, port: 80, type: vmess, uuid: 476c12d2-676b-4ee3-bed7-1430f8e93589, alterId: 16, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /BEN, ws-headers: {Host: 150.230.43.190}}
+- {name: 英国(欢迎订阅Youtube破解资源君), server: 193.118.60.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 104.20.81.240, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 38.107.226.146, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 62.212.239.51, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
+- {name: 美国(欢迎订阅Youtube破解资源君), server: 167.88.63.89, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 香港(欢迎订阅Youtube破解资源君), server: hkt01.hk.zz.xxxxx.x-t-fuckword.network, port: 56812, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, sni: hkt01.hk.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+- {name: 欧洲(欢迎订阅Youtube破解资源君), server: 51.77.53.200, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: us（欢迎订阅youtube：8度科技）, server: 167.88.63.82, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.119, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.60, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.250, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.133, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.107, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.108, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.82, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.165, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.233, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.243, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.95, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.133, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.165, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.176, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.147, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.71, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.163, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.79, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.119, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.119, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.61, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.28, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.146, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.82, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.89, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.60, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
+- {name: ZZ（欢迎订阅youtube：8度科技）, server: 134.195.196.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.250, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.71, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.11, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.60, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.107, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.89, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.176, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.176, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 193.29.107.125, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+- {name: 英国（感谢关注youtube：8度科技）, server: 91.206.168.34, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.247, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.178, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.133, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.218, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.241, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.28, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.107, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.74, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.159, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.159, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.107, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.149, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.74, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
 - {name: us（欢迎订阅youtube：8度科技）, server: 167.88.63.99, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: us（欢迎订阅youtube：8度科技）, server: 38.107.226.146, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 🇧🇪_BE_比利时（欢迎订阅youtube：8度科技）, server: 91.90.123.115, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-- {name: 🇭🇰（欢迎订阅youtube：8度科技）, server: 118.107.244.110, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇭🇰（欢迎订阅youtube：8度科技）, server: 118.107.244.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 🇷🇴（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-- {name: 🇷🇴（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-- {name: 🇺🇸+US（欢迎订阅youtube：8度科技）, server: 66.115.177.143, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-- {name: 🇺🇸+US（欢迎订阅youtube：8度科技）, server: 66.115.177.136, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-- {name: 🇺🇸+US（欢迎订阅youtube：8度科技）, server: 66.115.177.143, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-- {name: 🇺🇸+US（欢迎订阅youtube：8度科技）, server: 66.115.177.141, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 🇺🇸+US（欢迎订阅youtube：8度科技）, server: 167.88.63.108, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 澳大利亚（欢迎订阅youtube：8度科技）, server: 118.107.244.110, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 澳大利亚（欢迎订阅youtube：8度科技）, server: 172.105.174.182, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 澳大利亚（欢迎订阅youtube：8度科技）, server: 172.105.167.214, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 巴塞罗那（欢迎订阅youtube：8度科技）, server: 172.107.233.230, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 巴塞罗那（欢迎订阅youtube：8度科技）, server: 38.39.192.74, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 巴西+圣保罗（欢迎订阅youtube：8度科, server: 128.14.222.215, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 巴西+圣保罗（欢迎订阅youtube：8度科, server: 128.14.222.215, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 巴西+圣保罗（欢迎订阅youtube：8度科, server: 128.14.222.220, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 比利时（欢迎订阅youtube：8度科技）, server: 91.90.123.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-- {name: 波兰+华沙（欢迎订阅youtube：8度科技, server: 51.77.52.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 波兰+华沙（欢迎订阅youtube：8度科技, server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 波兰+华沙（欢迎订阅youtube：8度科技, server: 51.77.53.200, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 波兰+华沙（欢迎订阅youtube：8度科技, server: 51.77.53.200, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 波兰+华沙（欢迎订阅youtube：8度科技, server: 51.77.52.74, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 波兰+华沙（欢迎订阅youtube：8度科技）, server: 51.77.53.200, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 德国+黑森（欢迎订阅youtube：8度科技）, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 德国+黑森（欢迎订阅youtube：8度科技）, server: 145.239.1.137, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: ZZ（欢迎订阅youtube：8度科技）, server: 134.195.198.95, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 加利福尼亚（欢迎订阅youtube：8度科技）, server: 45.79.121.236, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 捷克+布拉格（感谢关注youtube：8度科技）, server: 217.138.219.229, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-- {name: 罗马尼亚+布加勒斯特（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-- {name: 罗马尼亚+布加勒斯特（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-- {name: 罗马尼亚+布加勒斯特（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-- {name: 罗马尼亚+布加勒斯特（感谢关注youtube：8度科技）, server: 5.133.14.196, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-- {name: 罗马尼亚+布加勒斯特12（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-- {name: 罗马尼亚+布加勒斯特3（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-- {name: 罗马尼亚+布加勒斯特4（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-- {name: 罗马尼亚+布加勒斯特4（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-- {name: 罗马尼亚+布加勒斯特4（群友橘子分享的节点）, server: 91.90.123.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-- {name: 罗马尼亚+布加勒斯特7（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.186, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.218, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.110, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.147, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.97, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.163, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.233, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.147, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.108, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.99, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.99, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.11, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.149, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科技）, server: 38.107.226.149, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
 - {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
-- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 193.29.107.125, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
-- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 91.90.123.115, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 193.29.107.125, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 79.110.54.117, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 193.29.107.125, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
-- {name: 洛杉矶（感谢关注youtube：8度科技）, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.230, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.158, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.186, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.230, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.205, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.186, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.246, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.35, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.7, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.35, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.149, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.57, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.188, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.7, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.35, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.188, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.109, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.230, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.139, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+- {name: IT（欢迎订阅youtube：8度科技), server: 82.102.26.93, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.90, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.186, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.57, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.7, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.139, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.153, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.186, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+（欢迎订阅youtube：8度科技）, server: 193.118.60.171, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国+（欢迎订阅youtube：8度科技）, server: 45.79.127.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国+达拉斯（感谢关注youtube：8度科技）, server: 212.102.40.68, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: 美国+丹佛（感谢关注youtube：8度科技）, server: 212.102.44.86, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: 美国+德克萨斯（感谢关注youtube：8度科技）, server: 212.102.40.68, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.122.28, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.122.28, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.55.72, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.59.32, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.59.32, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.63.34, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.104.206.241, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.55.72, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.42.160, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.57.249, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.121.236, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.55.72, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.59.32, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.57.249, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.127.97, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.55.72, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.122.28, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.42.160, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.38.55, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.127.97, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.42.160, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.127.97, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.42.160, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.38.55, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.63.34, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.42.160, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.38.55, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.63.34, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.127.97, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国+费利蒙（欢迎订阅youtube：8度科技）, server: 45.79.127.97, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国+新泽西+（欢迎订阅youtube：8度科技）, server: 172.104.206.241, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国+亚特兰大（感谢关注youtube：8度科技）, server: 66.115.177.156, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-- {name: 美国+亚特兰大（感谢关注youtube：8度科技）, server: 66.115.177.156, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-- {name: 美国+亚特兰大（感谢关注youtube：8度科技）, server: 66.115.177.156, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: 美国（感谢关注youtube：8度科技）, server: 198.147.22.87, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.133, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.79, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.218, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.79, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.79, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.109, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.205, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.35, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.230, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.147, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.71, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.165, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.218, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.130, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.218, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.79, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.247, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.133, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.233, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.233, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.233, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.71, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.95, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.243, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.250, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
 - {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.165, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
 - {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.147, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.79, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.71, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.71, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.147, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.95, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.97, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.250, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.95, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.243, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.97, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.133, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.165, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.218, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.71, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.147, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.97, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.97, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.110, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.110, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.110, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.178, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.178, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.243, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.250, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.163, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.163, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国富兰克林（欢迎订阅youtube：8度科技）, server: 193.108.118.34, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国富兰克林（欢迎订阅youtube：8度科技）, server: 193.108.118.2, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国富兰克林（欢迎订阅youtube：8度科技）, server: 193.108.118.34, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.11, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.119, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.82, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.119, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.60, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.107, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.82, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
 - {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.107, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.11, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.149, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.11, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.119, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.89, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.82, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.82, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.89, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.61, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.108, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.159, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.28, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.107, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.89, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.107, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
 - {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.89, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.146, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.241, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.241, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.108, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.149, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.60, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.60, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.99, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.28, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.99, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.114, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.74, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.28, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 美国洛杉矶（欢迎订阅youtube：8度科技）, server: 38.107.226.149, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 挪威（欢迎订阅youtube：8度科技）, server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 挪威（欢迎订阅youtube：8度科技）, server: 46.29.218.6, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
 - {name: 挪威（欢迎订阅youtube：8度科技）, server: 46.29.218.6, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 西班牙+巴塞罗那（欢迎订阅youtube：8度科技）, server: 38.39.192.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.174.182, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.174.182, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.174.182, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.167.214, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.174.182, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.37, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.41, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.41, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.174.182, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.37, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.37, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.41, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 香港（感谢关注youtube：8度科技）, server: 118.107.244.110, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 新西兰+奥克兰（感谢关注youtube：8度科技）, server: 180.149.231.67, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-- {name: 印度（欢迎订阅youtube：8度科技）, server: 137.59.52.107, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-- {name: 印度+孟买（欢迎订阅youtube：8度科技）, server: 192.46.211.249, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 印度+孟买（欢迎订阅youtube：8度科技）, server: 192.46.211.249, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 印度+孟买（欢迎订阅youtube：8度科技）, server: 192.46.211.249, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 印度+印多尔（感谢关注youtube：8度科技）, server: 137.59.52.107, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: 印度（欢迎订阅youtube：8度科技）, server: 172.105.38.55, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
 - {name: 英国+（欢迎订阅youtube：8度科技）, server: 172.99.190.35, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 英国（感谢关注youtube：8度科技）, server: 91.206.168.24, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-- {name: 英国（感谢关注youtube：8度科技）, server: 91.206.168.24, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.182, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.176, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.177, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.173, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.182, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.182, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.171, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.166, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.174, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+- {name: IT（欢迎订阅youtube：8度科技), server: 82.102.26.93, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+- {name: 🇭🇰（欢迎订阅youtube：8度科技）, server: 118.107.244.110, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: 🇺🇸+US（欢迎订阅youtube：8度科技), server: 167.88.63.108, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: ZZ（欢迎订阅youtube：8度科技）, server: 134.195.198.95, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.246, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.186, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.35, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.230, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.110, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.95, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.243, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.218, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.233, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.108, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.241, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
 - {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.166, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.174, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.167, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.173, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.166, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.176, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
 - {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.177, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.174, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 193.29.107.125, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+- {name: IT（欢迎订阅youtube：8度科技), server: 82.102.26.93, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.139, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.92, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.230, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.139, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+（欢迎订阅youtube：8度科技）, server: 193.118.60.171, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.71, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.97, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.241, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.81, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.198.95, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.238, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+- {name: 英国（感谢关注youtube：8度科技）, server: 91.206.168.34, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.246, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.149, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.158, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.163, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.167.214, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.167, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+- {name: 美国+亚特兰大（感谢关注youtube：8度科技）, server: 66.115.177.136, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+- {name: us（欢迎订阅youtube：8度科技）, server: 38.107.226.146, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.139, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.110, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国富兰克林（欢迎订阅youtube：8度科技）, server: 193.108.118.34, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.37, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
 - {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.177, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 更新于:10-19 04:00 -by BuLink.xyz- 以下节点不计流量, server: 使用前记得更新订阅, port: 0, type: vmess, uuid: 6a3bcc08-9c77-4c02-844b-4a694c4f2fea, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 使用前记得更新订阅}}
-- {name: github.com/freefq - 美国  2, server: 66.115.177.141, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: github.com/freefq - 美国  3, server: 66.115.177.141, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
-- {name: github.com/freefq - 美国  5, server: 150.230.43.190, port: 80, type: vmess, uuid: 476c12d2-676b-4ee3-bed7-1430f8e93589, alterId: 16, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /BEN, ws-headers: {Host: 150.230.43.190}}
-- {name: github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 8, server: t1.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, skip-cert-verify: false}
-- {name: github.com/freefq - 英国曼彻斯特M247网络 9, server: 89.238.130.251, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-- {name: github.com/freefq - 罗马尼亚  10, server: 91.90.123.155, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-- {name: github.com/freefq - 英国  11, server: 193.118.60.167, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: github.com/freefq - 罗马尼亚  13, server: 79.110.54.117, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-- {name: github.com/freefq - 英国曼彻斯特M247网络 15, server: 89.238.130.227, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-- {name: github.com/freefq - 英国  17, server: 193.118.60.165, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: github.com/freefq - 乌克兰  18, server: t7.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, skip-cert-verify: false}
-- {name: github.com/freefq - 俄罗斯新西伯利亚JustHost 19, server: t3.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, skip-cert-verify: false}
-- {name: github.com/freefq - 北美地区  22, server: 134.195.196.154, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: github.com/freefq - 北美地区  26, server: 134.195.196.81, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: github.com/freefq - 北美地区  50, server: 198.57.27.233, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: github.com/freefq - 北美地区  52, server: 134.195.198.252, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: github.com/freefq - 北美地区  53, server: 134.195.198.252, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: github.com/freefq - 俄罗斯  59, server: t2.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, skip-cert-verify: false}
-- {name: github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 60, server: t5.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, skip-cert-verify: false}
-- {name: github.com/freefq - 俄罗斯  67, server: t4.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, skip-cert-verify: false}
-- {name: github.com/freefq - 俄罗斯新西伯利亚JustHost 68, server: v3.ssrsub.com, port: 158, type: vmess, uuid: 6270e596-dfa0-48a3-aad0-613ce89724b4, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v3.ssrsub.com}}
-- {name: github.com/freefq - 波斯尼亚和黑塞哥维那  69, server: 185.99.3.102, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: github.com/freefq - 比利时  71, server: 89.249.73.197, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-- {name: vmess node, server: 193.25.215.85, port: 80, type: vmess, uuid: 892ebb75-7055-3007-8d16-356e65c6a49a, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /v1032N9rN0yPy, ws-headers: {Host: 193.25.215.85}}
-- {name: vmess node, server: 3.36.66.100, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 3.36.66.100}}
-- {name: vmess node, server: 146.56.187.13, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 146.56.187.13}}
-- {name: vmess node, server: 192.74.254.167, port: 20508, type: vmess, uuid: 764e808a-115e-11ec-a88f-00163c9f4934, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: 192.74.254.167}}
-- {name: vmess node, server: 192.74.254.167, port: 20508, type: vmess, uuid: 764e808a-115e-11ec-a88f-00163c9f4934, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: 192.74.254.167}}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.182, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.182, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 罗马尼亚（感谢关注youtube：8度科技）, server: 193.29.107.125, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+- {name: 挪威（欢迎订阅youtube：8度科技）, server: 46.29.218.6, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.37, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+- {name: 波兰+华沙（欢迎订阅youtube：8度科技, server: 51.77.53.200, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 波兰+华沙（欢迎订阅youtube：8度科技, server: 51.77.53.200, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 波兰+华沙（欢迎订阅youtube：8度科技）, server: 51.77.53.200, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.205, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.28, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+- {name: 罗马尼亚（感谢关注youtube：8度科技%, server: 193.29.107.125, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+- {name: 巴西+圣保罗（欢迎订阅youtube：8度科, server: 128.14.222.220, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 洛杉矶（欢迎订阅youtube：8度科技）, server: 172.99.190.153, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 西班牙+巴塞罗那（欢迎订阅youtube：8度科技）, server: 38.39.192.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.41, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+亚特兰大（感谢关注youtube：8度科技）, server: 66.115.177.136, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+- {name: IT（欢迎订阅youtube：8度科技), server: 82.102.26.93, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.57.249, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 澳大利亚（欢迎订阅youtube：8度科技）, server: 172.105.167.214, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 巴塞罗那（欢迎订阅youtube：8度科技）, server: 172.107.233.230, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 巴西+圣保罗（欢迎订阅youtube：8度科, server: 128.14.222.215, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.55.72, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.55.72, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.166, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.57.249, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.225, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 134.195.196.79, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.166, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国+亚特兰大（感谢关注youtube：8度科技）, server: 66.115.177.156, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+- {name: 巴塞罗那（欢迎订阅youtube：8度科技）, server: 38.39.192.74, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.122.28, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.127.97, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科技）, server: 45.79.127.97, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 悉尼（欢迎订阅youtube：8度科技）, server: 172.105.172.37, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.122.28, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.59.32, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.63.34, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 罗马尼亚+布加勒斯特（感谢关注youtube：8度科技）, server: 5.133.14.196, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+- {name: 德国+黑森（欢迎订阅youtube：8度科技）, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.38.55, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.121.236, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.122.28, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.55.72, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.59.32, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 挪威（欢迎订阅youtube：8度科技）, server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+亚特兰大（感谢关注youtube：8度科技）, server: 66.115.177.156, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.38.55, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.59.32, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国（欢迎订阅youtube：8度科技）, server: 198.57.27.243, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 英国伦敦（欢迎订阅youtube：8度科技%, server: 193.118.60.174, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.63.34, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国+亚特兰大（感谢关注youtube：8度科技）, server: 66.115.177.141, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.127.97, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 167.88.63.61, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: IT（欢迎订阅youtube：8度科技), server: 82.102.26.93, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
+- {name: 美国+（欢迎订阅youtube：8度科技）, server: 45.79.127.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 172.105.38.55, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国+亚特兰大（感谢关注youtube：8度科技）, server: 66.115.177.156, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+- {name: 巴塞罗那（欢迎订阅youtube：8度科技）, server: 38.39.192.74, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 美国+费利蒙（欢迎订阅youtube：8度科, server: 45.79.127.97, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国洛杉矶（欢迎订阅youtube：8度科%, server: 38.107.226.241, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: US（欢迎订阅youtube：8度科技), server: 66.115.177.143, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+- {name: 更新于:10-29 20:55 -by BuLink.xyz- 以下节点不计流量, server: 使用前记得更新订阅, port: 0, type: vmess, uuid: 6a3bcc08-9c77-4c02-844b-4a694c4f2fea, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 使用前记得更新订阅}}
+- {name: github.com/freefq - 韩国首尔Amazon数据中心 1, server: kraws1.biteb.xyz, port: 10055, type: vmess, uuid: 3d5a807e-8fd6-3a9e-af10-cccea21003e3, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: index, ws-headers: {Host: kraws1.biteb.xyz}}
+- {name: github.com/freefq - 美国惠普HP 2, server: a7ba0f9bba3e6d5ec.awsglobalaccelerator.com, port: 10338, type: vmess, uuid: 3d5a807e-8fd6-3a9e-af10-cccea21003e3, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: index, ws-headers: {Host: a7ba0f9bba3e6d5ec.awsglobalaccelerator.com}}
+- {name: github.com/freefq - 美国  3, server: kr1.futi.online, port: 443, type: vmess, uuid: 6a5b2dee-6e88-46db-9275-d8c6e042c3db, alterId: 1, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: kr1.futi.online}}
+- {name: github.com/freefq - 美国加利福尼亚州洛杉矶Zenlayer数据中心 6, server: 128.14.157.112, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8634, alterId: 10, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ray, ws-headers: {Host: 128.14.157.112}}
+- {name: github.com/freefq - 日本东京Amazon数据中心 7, server: jpaws2.biteb.club, port: 10307, type: vmess, uuid: 3d5a807e-8fd6-3a9e-af10-cccea21003e3, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: index, ws-headers: {Host: jpaws2.biteb.club}}
+- {name: github.com/freefq - 美国加利福尼亚州洛杉矶Amazon数据中心 8, server: us2.futi.online, port: 443, type: vmess, uuid: 6a5b2dee-6e88-46db-9275-d8c6e042c3db, alterId: 1, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: us2.futi.online}}
+- {name: github.com/freefq - 美国  9, server: us3.futi.online, port: 443, type: vmess, uuid: 6a5b2dee-6e88-46db-9275-d8c6e042c3db, alterId: 1, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: None, ws-headers: {Host: us3.futi.online}}
+- {name: github.com/freefq - 美国  10, server: jp3.futi.online, port: 443, type: vmess, uuid: 6a5b2dee-6e88-46db-9275-d8c6e042c3db, alterId: 1, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: None, ws-headers: {Host: jp3.futi.online}}
+- {name: github.com/freefq - 台湾省台北市中华电信 11, server: tw-1.okex-tradebot.xyz, port: 10362, type: vmess, uuid: 3d5a807e-8fd6-3a9e-af10-cccea21003e3, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: index, ws-headers: {Host: tw-1.okex-tradebot.xyz}}
+- {name: github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 12, server: v1.ssrsub.com, port: 159, type: vmess, uuid: f5487ee3-aef5-436f-adf9-673b1afe2ff7, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v1.ssrsub.com}}
+- {name: github.com/freefq - 美国德克萨斯州达拉斯Oracle(Zenedge) 13, server: kr2.futi.online, port: 8443, type: vmess, uuid: 6a5b2dee-6e88-46db-9275-d8c6e042c3db, alterId: 1, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: kr2.futi.online}}
+- {name: github.com/freefq - 广东省广州市移动 14, server: 1.transit.t.qjnodeip.xyz, port: 29236, type: vmess, uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0, alterId: 8, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /Jg012, ws-headers: {Host: 1.transit.t.qjnodeip.xyz}}
+- {name: github.com/freefq - 美国Merit网络公司 15, server: a592e05aabafc7821.awsglobalaccelerator.com, port: 10350, type: vmess, uuid: 3d5a807e-8fd6-3a9e-af10-cccea21003e3, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: index, ws-headers: {Host: a592e05aabafc7821.awsglobalaccelerator.com}}
+- {name: github.com/freefq - 美国  17, server: jp2.futi.online, port: 443, type: vmess, uuid: 6a5b2dee-6e88-46db-9275-d8c6e042c3db, alterId: 1, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: None, ws-headers: {Host: jp2.futi.online}}
+- {name: github.com/freefq - 瑞典  19, server: 167.88.63.11, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: github.com/freefq - 俄罗斯新西伯利亚州新西伯利亚 21, server: v5.ssrsub.com, port: 159, type: vmess, uuid: f5487ee3-aef5-436f-adf9-673b1afe2ff7, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v5.ssrsub.com}}
+- {name: github.com/freefq - 俄罗斯新西伯利亚JustHost 22, server: v3.ssrsub.com, port: 159, type: vmess, uuid: 52f31fcb-f948-4f71-bca8-795fdcf7b754, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v3.ssrsub.com}}
+- {name: github.com/freefq - 俄罗斯  23, server: t2.ssrsub.com, port: 844, type: trojan, password: f5487ee3-aef5-436f-adf9-673b1afe2ff7, skip-cert-verify: false}
+- {name: github.com/freefq - 美国内华达州拉斯维加斯BuyVM数据中心 25, server: t1.ssrsub.com, port: 844, type: trojan, password: f5487ee3-aef5-436f-adf9-673b1afe2ff7, skip-cert-verify: false}
+- {name: github.com/freefq - 美国CloudFlare节点 27, server: uusss1111.liuwei01.tk, port: 443, type: vmess, uuid: 0fab5928-9d70-4666-b351-5debff8a15de, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /liuwei, ws-headers: {Host: uusss1111.liuwei01.tk}}
+- {name: github.com/freefq - 乌克兰  29, server: t7.ssrsub.com, port: 844, type: trojan, password: f5487ee3-aef5-436f-adf9-673b1afe2ff7, skip-cert-verify: false}
+- {name: github.com/freefq - 北美地区  32, server: 198.57.27.225, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: github.com/freefq - 俄罗斯  33, server: v4.ssrsub.com, port: 159, type: vmess, uuid: 52f31fcb-f948-4f71-bca8-795fdcf7b754, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v4.ssrsub.com}}
+- {name: github.com/freefq - 乌克兰  35, server: v7.ssrsub.com, port: 159, type: vmess, uuid: 52f31fcb-f948-4f71-bca8-795fdcf7b754, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v7.ssrsub.com}}
+- {name: github.com/freefq - 俄罗斯  36, server: v2.ssrsub.com, port: 159, type: vmess, uuid: f5487ee3-aef5-436f-adf9-673b1afe2ff7, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v2.ssrsub.com}}
+- {name: github.com/freefq - 俄罗斯  45, server: t4.ssrsub.com, port: 844, type: trojan, password: f5487ee3-aef5-436f-adf9-673b1afe2ff7, skip-cert-verify: false}
+- {name: github.com/freefq - 俄罗斯新西伯利亚JustHost 46, server: t3.ssrsub.com, port: 844, type: trojan, password: f5487ee3-aef5-436f-adf9-673b1afe2ff7, skip-cert-verify: false}
+- {name: github.com/freefq - 美国CloudFlare公司CDN节点 47, server: www.gov.hk, port: 8443, type: vmess, uuid: 813cb315-4ae8-44e1-e85d-ae90dd5233b6, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /html, ws-headers: {Host: hax.cfyes.team}}
+- {name: github.com/freefq - 美国CloudFlare公司CDN节点 48, server: www.gov.hk, port: 443, type: vmess, uuid: ef7b953f-09af-4ca9-a074-14665d235010, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /home, ws-headers: {Host: cvm.365edu.cf}}
+- {name: vmess node, server: 120.240.86.53, port: 33130, type: vmess, uuid: fdc2ac0a-ce39-4b69-ae6a-4cc38643440f, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: t.me/vpnpool, ws-headers: {Host: 120.240.86.53}}
+- {name: vmess node, server: 165.232.167.127, port: 80, type: vmess, uuid: d96115c5-ec25-45a3-bc94-2b813db31e09, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 165.232.167.127}}
+- {name: vmess node, server: 120.232.173.88, port: 25610, type: vmess, uuid: fdc2ac0a-ce39-4b69-ae6a-4cc38643440f, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: t.me/vpnpool, ws-headers: {Host: 120.232.173.88}}
+- {name: vmess node, server: 210.13.84.35, port: 65011, type: vmess, uuid: 6c810d84-b725-4a7a-8c9a-10d99a14cfcb, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: tcp, ws-path: undefined, ws-headers: {Host: 210.13.84.35}}
+- {name: vmess node, server: 210.13.84.35, port: 65011, type: vmess, uuid: 6c810d84-b725-4a7a-8c9a-10d99a14cfcb, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: tcp, ws-path: undefined, ws-headers: {Host: 210.13.84.35}}
 - {name: "🇦🇷 干死日本鬼子|中国香港特别行政区(HK)Hongkong SAR China/Hong Kong", server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: ACEF9CF3-BE5E-AFF4-E916-FD0668F6BF59, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: vtwonet-hk-a.qjnodeip.xyz}}
 - {name: "🇭🇰 干死日本鬼子|中国香港/中国台湾(CN)China/Pudong/小东的程序未能精准识别(可能是中转节点)", server: 41171956-ddbb.fkunky.cn, port: 59512, type: vmess, uuid: e8ea0c5c-ff44-32b8-a39c-5f5cd38d0236, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 41171956-ddbb.fkunky.cn}}
 - {name: "🇦🇷 干死日本鬼子|中国香港特别行政区(HK)Hongkong SAR China/Hong Kong 4", server: vtwonet-hk-a.qjnodeip.xyz, port: 23333, type: vmess, uuid: FE047729-EC0D-E1B1-38EA-E61A609F6A83, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: vtwonet-hk-a.qjnodeip.xyz}}
@@ -571,6 +450,7 @@ proxies:
 - {name: "🇺🇸 干死日本鬼子|美国(US)USA/Los Angeles 11", server: 154.17.2.160, port: 18333, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
 - {name: "🇺🇸 干死日本鬼子|美国(US)USA/Los Angeles 12", server: 154.17.2.211, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: ZECSlaTZea5jFO736FA3Ry3DaXRA2qNx0pceYDzKCuYS8gl3B4p8InwyDCOSx9}
 - {name: "🇺🇸 干死日本鬼子|美国(US)USA/Dallas", server: 172.241.114.87, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+- {name: 干死日本鬼子 7, server: 212.102.40.68, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
 - {name: "🇳🇱 干死日本鬼子|荷兰(NL)Netherlands/Amsterdam 2", server: 154.84.1.217, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /footers, ws-headers: {Host: 154.84.1.217}}
 - {name: "🇨🇦 干死日本鬼子|加拿大(CA)Canada/Vancouver", server: 198.8.92.69, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
 - {name: "🇳🇱 干死日本鬼子|荷兰(NL)Netherlands/Amsterdam 3", server: 46.182.107.154, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /footers, ws-headers: {Host: 46.182.107.154}}
@@ -623,65 +503,47 @@ proxies:
 - {name: "🇬🇧 干死日本鬼子|英国(GB)United Kiongdom/London 5", server: ld03.xqkj.cloud, port: 1513, type: vmess, uuid: 7a5d2e3d-36d3-4ce8-b6b6-1e852b10a08a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: ld03.xqkj.cloud}}
 - {name: "🇳🇱 干死日本鬼子|荷兰(NL)Netherlands/Amsterdam 13", server: 163.172.214.118, port: 18770, type: vmess, uuid: 5d3e6e14-5828-4e88-a946-bad5c700b4d5, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: 163.172.214.118}}
 - {name: _01, server: 27.131.164.100, port: 44945, type: ss, cipher: aes-256-gcm, password: F5bKkb9ggkLx4JbQrbLn7LjZ}
-- {name: _11, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: Pool__14, server: 185.166.84.81, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-- {name: _25, server: 134.195.196.154, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: _38, server: 72.140.224.197, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-- {name: Relay_-🇨🇦CA_39, server: ss1.ssrsub.com, port: 40443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub}
-- {name: Relay_-🇨🇦CA_54, server: //dlj.tf/ssrsub, port: ss2.ssrsub.com, type: ss, cipher: aes-128-gcm, password: https}
-- {name: Pool__63, server: 82.102.26.93, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-- {name: Pool__64, server: 82.102.26.93, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
-- {name: Pool__66, server: 82.102.26.93, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-- {name: Pool__67, server: 5.253.207.53, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: Pool__69, server: 66.115.177.156, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-- {name: _72, server: 62.212.239.53, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-- {name: Pool__77, server: 185.225.28.93, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: _81, server: 62.212.239.53, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-- {name: Pool__82, server: 91.219.215.19, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: _83, server: 194.39.127.191, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-- {name: Pool__86, server: 86.106.137.147, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-- {name: _87, server: 62.210.38.178, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: Pool__88, server: 45.129.32.8, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-- {name: Relay_-🇷🇺RU_90, server: v4.ssrsub.com, port: 158, type: vmess, uuid: 9f665f12-29a2-4ff7-a456-c41f9443e8a7, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v4.ssrsub.com}}
-- {name: Relay_-🇷🇺RU_92, server: v3.ssrsub.com, port: 158, type: vmess, uuid: 6270e596-dfa0-48a3-aad0-613ce89724b4, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v3.ssrsub.com}}
-- {name: Relay_-🇺🇸US_94, server: v2.ssrsub.com, port: 158, type: vmess, uuid: 6270e596-dfa0-48a3-aad0-613ce89724b4, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v2.ssrsub.com}}
-- {name: Relay_-🇺🇸US_96, server: v1.ssrsub.com, port: 158, type: vmess, uuid: 9f665f12-29a2-4ff7-a456-c41f9443e8a7, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v1.ssrsub.com}}
-- {name: _98, server: 194.36.178.185, port: 53661, type: vmess, uuid: 9059c2b3-54b6-4e18-c789-86048661507b, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: None, ws-path: None, ws-headers: {Host: 194.36.178.185}}
-- {name: Relay_-🇺🇸US_99, server: cyberpunk2077freedownload.herokuapp.com, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: cyberpunk2077freedownload.herokuapp.com}}
-- {name: Relay_-🇷🇺RU_100, server: v5.ssrsub.com, port: 158, type: vmess, uuid: 6270e596-dfa0-48a3-aad0-613ce89724b4, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v5.ssrsub.com}}
-- {name: Relay_-🇺🇸US_102, server: zoomlogin.hostmeetingnow.tk, port: 8880, type: vmess, uuid: 8cf979a4-7d96-4915-abf9-167f295b3fa7, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /45ufd6, ws-headers: {Host: zoomlogin.hostmeetingnow.tk}}
-- {name: Relay_-🇷🇺RU_103, server: v7.ssrsub.com, port: 158, type: vmess, uuid: 6270e596-dfa0-48a3-aad0-613ce89724b4, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v7.ssrsub.com}}
-- {name: _104, server: 192.74.254.112, port: 58719, type: vmess, uuid: ae1048eb-a962-48f6-b15f-013d83d0b6c7, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: None, ws-path: None, ws-headers: {Host: 192.74.254.112}}
-- {name: Relay_-🇷🇺RU_110, server: t5.ssrsub.com, port: 8443, type: trojan, password: 9f665f12-29a2-4ff7-a456-c41f9443e8a7, sni: t5.ssrsub.com, skip-cert-verify: false}
-- {name: Relay_-🇺🇸US_113, server: t1.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, sni: t1.ssrsub.com, skip-cert-verify: false}
-- {name: Relay_-🇷🇺RU_116, server: t4.ssrsub.com, port: 8443, type: trojan, password: 6270e596-dfa0-48a3-aad0-613ce89724b4, sni: t4.ssrsub.com, skip-cert-verify: false}
-- {name: "[10-13]|oslook|日本JPJapan/Tokyo_1", server: jp.52jjyun.top, port: 88, type: vmess, uuid: bf7134c3-914d-4294-8cdf-6eda920d1a42, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /jjyun, ws-headers: {Host: jp.52jjyun.top}}
-- {name: "[10-13]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_2", server: hkml.jjyun.ren, port: 88, type: vmess, uuid: c8191e5d-c551-4896-8d57-7493da874557, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /jjyun, ws-headers: {Host: hkml.jjyun.ren}}
-- {name: "[10-13]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_3", server: 18.163.112.47, port: 443, type: vmess, uuid: 858432a9-4a9c-4690-ef7b-c7adeb4c9f21, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: 18.163.112.47}}
-- {name: "[10-13]|oslook|澳大利亚AUAustralia/Canberra_4", server: 1.1.1.13, port: 443, type: vmess, uuid: 80dbead7-ddee-4b87-bd9d-5d96c992cf20, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /v2rayvws\\\?ed=2048, ws-headers: {Host: 1.1.1.13}}
-- {name: "[10-13]|oslook|美国USUSA/San Jose_5", server: 54.193.184.138, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 54.193.184.138}}
-- {name: "[10-13]|oslook|美国USUSA/Los Angeles_7", server: 66.42.107.33, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 66.42.107.33}}
-- {name: "[10-13]|oslook|美国USUSA/Los Angeles_8", server: inap.qqnz.com.cn, port: 443, type: vmess, uuid: a8f3742c-4422-4943-9293-3ea618a846df, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /IJPCL0JG, ws-headers: {Host: inap.qqnz.com.cn}}
-- {name: "[10-13]|oslook|俄罗斯RURussia/Moscow_9", server: ruml.jjyun.ren, port: 88, type: vmess, uuid: c8191e5d-c551-4896-8d57-7493da874557, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ruml.jjyun.ren}}
-- {name: "[10-13]|oslook|中国香港/中国台湾CNChina/Changning/可能是中转节点_11", server: us1.np.qjnodeip.xyz, port: 10018, type: vmess, uuid: b96e61d5-b7a1-4c3a-be22-59bd81e06b9e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: us1.np.qjnodeip.xyz}}
-- {name: "[10-13]|oslook|中国香港/中国台湾CNChina/Changning/可能是中转节点_12", server: us1.np.qjnodeip.xyz, port: 10016, type: vmess, uuid: 0a728900-68ae-4821-8dec-6d23421ebdbd, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: us1.np.qjnodeip.xyz}}
-- {name: "[10-13]|oslook|美国USUSA/New+York_30", server: 84.17.35.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-- {name: "[10-13]|oslook|美国USUSA/Portland_34", server: 18.236.146.125, port: 8888, type: vmess, uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 18.236.146.125}}
-- {name: "[10-13]|oslook|韩国KRKorea/Chuncheon-si_36", server: 146.56.110.45, port: 80, type: vmess, uuid: d8992174-62c3-4eb0-f435-fc1c9ab0f8df, alterId: 16, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /BEN, ws-headers: {Host: 146.56.110.45}}
-- {name: "[10-13]|oslook|加拿大CACanada/Waterloo_44", server: v10.ssrsub.com, port: 158, type: vmess, uuid: 360ecd87-72e8-4706-b252-79d0d0cfe6aa, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v10.ssrsub.com}}
-- {name: "[10-13]|oslook|澳大利亚AUAustralia/Melbourne_55", server: 168.138.28.215, port: 80, type: vmess, uuid: 0e1b66d4-97a0-46f4-e8ee-ea2c15860ac6, alterId: 16, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /BEN, ws-headers: {Host: 168.138.28.215}}
-- {name: "[10-13]|oslook|美国USUSA/Buffalo_59", server: 64.44.42.60, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-- {name: "[10-13]|oslook|美国USUSA/Miami_60", server: t6.ssrsub.com, port: 8443, type: trojan, password: 360ecd87-72e8-4706-b252-79d0d0cfe6aa, skip-cert-verify: false}
-- {name: "[10-13]|oslook|美国USUSA/Miami_61", server: v6.ssrsub.com, port: 158, type: vmess, uuid: 360ecd87-72e8-4706-b252-79d0d0cfe6aa, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v6.ssrsub.com}}
-- {name: "[10-13]|oslook|英国GBUnited Kiongdom/London_62", server: ukml.52jjyun.top, port: 88, type: vmess, uuid: cb6273ad-5837-4c65-92e8-07daf9beb777, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ukml.52jjyun.top}}
-- {name: "[10-13]|oslook|英国GBUnited+Kiongdom/Ipswich_64", server: 81.19.223.189, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-- {name: "[10-13]|oslook|英国GBUnited Kiongdom/London_68", server: ukml.52jjyun.top, port: 88, type: vmess, uuid: 190ee9db-85d6-438c-88a2-a62a4cc4c8a3, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ukml.52jjyun.top}}
-- {name: "[10-13]|oslook|英国GBUnited Kiongdom/London_74", server: 46.101.28.98, port: 12222, type: vmess, uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 46.101.28.98}}
-- {name: "[10-13]|oslook|美国USUSA/Houston_75", server: 199.10.64.243, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-- {name: "[10-13]|oslook|加拿大CACanada/Waterloo_82", server: t10.ssrsub.com, port: 8443, type: trojan, password: 721c60a2-86a4-44c6-8f82-8fc80f6ad8ab, skip-cert-verify: false}
-- {name: 新加坡 01 Google, server: gcp2.vpnlegasi.xyz, port: 80, type: vmess, uuid: acc73504-2ad7-45e1-ba5c-357a9022a632, alterId: 32, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: gcp2.vpnlegasi.xyz}}
-- {name: 美国 01 Cloudflare, server: 104.26.9.74, port: 443, type: vmess, uuid: f6c1babe-416e-47d1-8726-049678e25c7a, alterId: 64, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /sshocean, ws-headers: {Host: us2.v2rayserv.com}}
-- {name: 美国 02 Cluster, server: 173.242.117.35, port: 10001, type: vmess, uuid: e8e88e59-2453-4778-9e94-aa7669d8b2af, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 173.242.117.35}}
+- {name: _02, server: 172.104.206.241, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: _08, server: 146.70.27.12, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+- {name: _11, server: 167.88.63.28, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: _14, server: 134.195.196.133, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: Pool__15, server: 194.39.127.191, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+- {name: Pool__17, server: 66.115.177.141, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+- {name: _18, server: 193.118.60.165, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: Pool__19, server: 185.166.84.81, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+- {name: _22, server: 45.89.229.223, port: 152, type: ss, cipher: aes-128-gcm, password: 6d6d99b0-be8a-43bc-ad73-2fb0f1595793}
+- {name: _24, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: Pool__25, server: 82.102.26.93, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+- {name: _26, server: 72.140.224.197, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+- {name: _29, server: 198.57.27.233, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: _30, server: 2.59.214.204, port: 152, type: ss, cipher: aes-128-gcm, password: 6d6d99b0-be8a-43bc-ad73-2fb0f1595793}
+- {name: _31, server: 193.38.51.192, port: 152, type: ss, cipher: aes-128-gcm, password: 6d6d99b0-be8a-43bc-ad73-2fb0f1595793}
+- {name: _34, server: 18.163.112.47, port: 8080, type: vmess, uuid: 858432a9-4a9c-4690-ef7b-c7adeb4c9f21, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /Download, ws-headers: {Host: 18.163.112.47}}
+- {name: Relay_-🇺🇸US_35, server: t1.ssrsub.com, port: 8443, type: trojan, password: 5b092e88-82d8-47eb-a7a2-98bcf02754e9, sni: t1.ssrsub.com, skip-cert-verify: false}
+- {name: 香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_1, server: 10.yyds123.com, port: 80, type: vmess, uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ny, ws-headers: {Host: 10.yyds123.com}}
+- {name: 新加坡 2倍速节点02_2, server: vip345.xyz, port: 34725, type: vmess, uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ny, ws-headers: {Host: vip345.xyz}}
+- {name: vip3独享 香港三网优化 解锁奈飞 流量倍速0.5 用2G只算1G的钱_3, server: 5.yyds123.com, port: 29999, type: vmess, uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ny, ws-headers: {Host: 5.yyds123.com}}
+- {name: 香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_4, server: 7.yyds123.com, port: 80, type: vmess, uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ny, ws-headers: {Host: 7.yyds123.com}}
+- {name: 新加坡 2倍速节点_5, server: vip345.xyz, port: 59477, type: vmess, uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ny, ws-headers: {Host: vip345.xyz}}
+- {name: 香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_6, server: 8.yyds123.com, port: 80, type: vmess, uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ny, ws-headers: {Host: 8.yyds123.com}}
+- {name: 台湾 5倍速节点_7, server: vip345.xyz, port: 35230, type: vmess, uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ny, ws-headers: {Host: vip345.xyz}}
+- {name: 香港04 免流80节点 解锁奈飞 流量倍速0.5 用2G只算1G的钱_8, server: 4.yyds123.com, port: 80, type: vmess, uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ny, ws-headers: {Host: 4.yyds123.com}}
+- {name: "[10-29]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_9", server: 1.transit.t.qjnodeip.xyz, port: 62329, type: vmess, uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0, alterId: 8, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /usa1Z, ws-headers: {Host: 1.transit.t.qjnodeip.xyz}}
+- {name: "[10-29]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_11", server: 1.transit.t.qjnodeip.xyz, port: 49676, type: vmess, uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0, alterId: 8, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /JS6dq, ws-headers: {Host: 1.transit.t.qjnodeip.xyz}}
+- {name: "[10-29]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_12", server: 1.transit.t.qjnodeip.xyz, port: 27435, type: vmess, uuid: 615505e8-e63c-3bad-b3e7-d5e6cf99387e, alterId: 8, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /JP03W, ws-headers: {Host: 1.transit.t.qjnodeip.xyz}}
+- {name: "[10-29]|oslook|英国GBUnited Kiongdom/London_15", server: 46.101.28.98, port: 12222, type: vmess, uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 46.101.28.98}}
+- {name: "[10-29]|oslook|中国香港特别行政区HKHongkong SAR China/Kwu Tung_18", server: hkt.nkeo.top, port: 48691, type: vmess, uuid: d96115c5-ec25-45a3-bc94-2b813db31e09, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: hkt.nkeo.top}}
+- {name: "[10-29]|oslook|美国USUSA/San Francisco_19", server: 104.26.9.74, port: 443, type: vmess, uuid: f6c1babe-416e-47d1-8726-049678e25c7a, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /sshocean, ws-headers: {Host: 104.26.9.74}}
+- {name: "[10-29]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_23", server: 1.transit.t.qjnodeip.xyz, port: 17077, type: vmess, uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0, alterId: 8, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /Xjibjp04e, ws-headers: {Host: 1.transit.t.qjnodeip.xyz}}
+- {name: "[10-29]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26", server: 1.transit.t.qjnodeip.xyz, port: 42007, type: vmess, uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0, alterId: 8, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /HGz2Z, ws-headers: {Host: 1.transit.t.qjnodeip.xyz}}
+- {name: "[10-29]|oslook|中国香港/中国台湾CNChina/Shenzhen/可能是中转节点_27", server: 120.240.86.53, port: 29955, type: vmess, uuid: fdc2ac0a-ce39-4b69-ae6a-4cc38643440f, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: t.me/vpnpool, ws-headers: {Host: 120.240.86.53}}
+- {name: "[10-29]|oslook|美国USUSA/Atlanta_28", server: 167.88.63.82, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 美国 01 DediPath, server: v2.ssrsub.com, port: 158, type: vmess, uuid: 6d6d99b0-be8a-43bc-ad73-2fb0f1595793, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v2.ssrsub.com}}
+- {name: 美国 02 FranTech, server: v1.ssrsub.com, port: 8401, type: vmess, uuid: 6d6d99b0-be8a-43bc-ad73-2fb0f1595793, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v1.ssrsub.com}}
+- {name: 法国 01, server: 109.238.12.153, port: 17961, type: vmess, uuid: 450fc2ff-6429-4278-febe-aa01c9f9a0e6, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 109.238.12.153}}
+- {name: 日本 01 TYO, server: gmegme.ga, port: 443, type: vmess, uuid: 160ce2c0-89d2-11eb-aef3-560003425baf, alterId: 12, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /zwWptVxh/, ws-headers: {Host: gmegme.ga}}
+- {name: 美国 04 Cloudflare, server: 104.18.26.165, port: 443, type: vmess, uuid: 4d88f6a2-aaa9-42b6-afc4-227f89974119, alterId: 0, cipher: auto, tls: True, skip-cert-vertify: false, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.ga}}
+- {name: 美国 05 Cluster, server: 173.242.117.35, port: 10001, type: vmess, uuid: e8e88e59-2453-4778-9e94-aa7669d8b2af, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 173.242.117.35}}
 - {name: 中国 01 Chinanet, server: 116.192.164.217, port: 52012, type: vmess, uuid: 35cfbca1-385e-405f-9f1f-8b5402ef7999, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: en.tgchannels.org/channel/vpnpool}}
 - {name: 香港 01 CloudRadium, server: 172.247.76.178, port: 10001, type: vmess, uuid: 31628db0-5bef-413a-bd87-bb0453b6f885, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 172.247.76.178}}
 - {name: 中国 02 China, server: 183.236.55.216, port: 52012, type: vmess, uuid: 35cfbca1-385e-405f-9f1f-8b5402ef7999, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: en.tgchannels.org/channel/vpnpool}}
@@ -689,68 +551,83 @@ proxies:
 - {name: 香港 03 CloudRadium, server: 172.247.76.90, port: 10001, type: vmess, uuid: 0052f518-51f0-4e28-b2ba-97becd250e1d, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 172.247.76.90}}
 - {name: 香港 04 CloudRadium, server: 172.247.76.180, port: 10001, type: vmess, uuid: 896fd0a9-252f-454f-9731-baaaf50c7952, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: None, ws-headers: {Host: 172.247.76.180}}
 - {name: 中国 03 Chinanet, server: 116.192.164.217, port: 52002, type: vmess, uuid: 35cfbca1-385e-405f-9f1f-8b5402ef7999, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: tcp, ws-path: /, ws-headers: {Host: en.tgchannels.org/channel/vpnpool}}
-- {name: 澳大利亞 01 APNIC, server: 1.1.1.1, port: 443, type: vmess, uuid: d7662dde-1d41-4c35-888b-033f1764b643, alterId: 0, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /zeduvws\?ed=2048, ws-headers: {Host: c.1808.cf}}
-- {name: 美国 03 Cloudflare, server: 104.16.106.176, port: 443, type: vmess, uuid: d7662dde-1d41-4c35-888b-033f1764b643, alterId: 0, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /zeduvws\?ed=2048, ws-headers: {Host: c.1808.cf}}
-- {name: 中国 04 China, server: ngzyd-1.okex-tradebot.xyz, port: 30006, type: vmess, uuid: d5bec4cd-b013-49ca-813c-640d050c16e2, alterId: 1, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: None, ws-headers: {Host: ngzyd-1.okex-tradebot.xyz}}
-- {name: 中国 05 China, server: ngzyd-1.okex-tradebot.xyz, port: 30004, type: vmess, uuid: d5bec4cd-b013-49ca-813c-640d050c16e2, alterId: 1, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: None, ws-headers: {Host: ngzyd-1.okex-tradebot.xyz}}
-- {name: 中国 06 AWS, server: 52.80.255.101, port: 57201, type: vmess, uuid: e4936684-1b09-400c-943b-0037ebf162de, alterId: 1, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: None, ws-headers: {Host: 52.80.255.101}}
-- {name: 中国 07 China, server: rxzgzq.moox.icu, port: 41025, type: vmess, uuid: c7d0329b-18b4-49ae-8c7c-f362d03e6bd7, alterId: 1, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: rxzgzq.moox.icu}}
-- {name: 中国 08 China, server: icajm.moox.icu, port: 34019, type: vmess, uuid: c7d0329b-18b4-49ae-8c7c-f362d03e6bd7, alterId: 1, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: do403.xlanfly.xyz}}
-- {name: 中国 09 China, server: icajm.moox.icu, port: 34016, type: vmess, uuid: c7d0329b-18b4-49ae-8c7c-f362d03e6bd7, alterId: 1, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: awssg.xlanfly.xyz}}
-- {name: 中国 10 China, server: icajm.moox.icu, port: 40007, type: vmess, uuid: c7d0329b-18b4-49ae-8c7c-f362d03e6bd7, alterId: 1, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: sgnf.xlanfly.xyz}}
-- {name: 中国 11 China, server: rxzgzq.moox.icu, port: 34025, type: vmess, uuid: c7d0329b-18b4-49ae-8c7c-f362d03e6bd7, alterId: 1, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: rxzgzq.moox.icu}}
-- {name: v1-香港5, server: 15.kaikaiye.cyou, port: 36115, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 15.kaikaiye.cyou}}
-- {name: v1-日本1, server: 1.kaikaiye.cyou, port: 36101, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 1.kaikaiye.cyou}}
-- {name: v1-香港1, server: 4.kaikaiye.cyou, port: 36104, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 4.kaikaiye.cyou}}
-- {name: 香港免流05 解锁新加坡区奈飞, server: hk05.zz123.xyz, port: 80, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: a.189.cn}}
-- {name: 香港免流04, server: hk04.zz123.xyz, port: 80, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: a.189.cn}}
-- {name: 香港免流01, server: hk01.zz123.xyz, port: 80, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: a.189.cn}}
-- {name: 新加坡01, server: azhk.zz123.xyz, port: 38141, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: 新加坡03, server: azhk.zz123.xyz, port: 32819, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: 新加坡02, server: azhk.zz123.xyz, port: 35724, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: 香港免流02, server: hk02.zz123.xyz, port: 80, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: a.189.cn}}
-- {name: v1-日本2, server: 16.kaikaiye.cyou, port: 36116, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 16.kaikaiye.cyou}}
-- {name: 香港免流03, server: hk03.zz123.xyz, port: 80, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: a.189.cn}}
-- {name: v1-香港2, server: 5.kaikaiye.cyou, port: 26105, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 5.kaikaiye.cyou}}
-- {name: v1-香港4, server: 7.kaikaiye.cyou, port: 36107, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 7.kaikaiye.cyou}}
-- {name: v1-日本6, server: 32.kaikaiye.cyou, port: 36132, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 32.kaikaiye.cyou}}
-- {name: v1-日本3, server: 3.kaikaiye.cyou, port: 36103, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 3.kaikaiye.cyou}}
-- {name: v1-新加坡3, server: 13.kaikaiye.cyou, port: 36113, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 13.kaikaiye.cyou}}
-- {name: 印度01 包月3元起, server: azhk.zz123.xyz, port: 33959, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: v1-韩国3, server: 24.kaikaiye.cyou, port: 26124, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 24.kaikaiye.cyou}}
-- {name: 韩国, server: azhk.zz123.xyz, port: 42799, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: v1-韩国2, server: 25.kaikaiye.cyou, port: 26125, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 25.kaikaiye.cyou}}
-- {name: v1-韩国1, server: 14.kaikaiye.cyou, port: 36114, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 14.kaikaiye.cyou}}
-- {name: v1-香港3, server: 6.kaikaiye.cyou, port: 26106, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 6.kaikaiye.cyou}}
-- {name: v1-日本4, server: 17.kaikaiye.cyou, port: 36117, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 17.kaikaiye.cyou}}
-- {name: v1-新加坡1, server: 2.kaikaiye.cyou, port: 36102, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 2.kaikaiye.cyou}}
-- {name: v1-新加坡4, server: 39.kaikaiye.cyou, port: 36139, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 39.kaikaiye.cyou}}
-- {name: v1-新加坡2, server: 23.kaikaiye.cyou, port: 36123, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 23.kaikaiye.cyou}}
-- {name: 日本03, server: azhk.zz123.xyz, port: 36813, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: v1-日本5, server: 31.kaikaiye.cyou, port: 26131, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 31.kaikaiye.cyou}}
-- {name: 美国02, server: azhk.zz123.xyz, port: 54188, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: v1-新加坡5, server: 35.kaikaiye.cyou, port: 56135, type: vmess, uuid: eebae11a-4b47-3911-9429-50e5f51bfa62, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 35.kaikaiye.cyou}}
-- {name: 美国01, server: azhk.zz123.xyz, port: 34319, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: 德国01 邀请好友可获100%返利, server: azhk.zz123.xyz, port: 46101, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: 英国01, server: azhk.zz123.xyz, port: 37862, type: vmess, uuid: 99e80cc6-e9da-334a-97a4-aad7ca092ddf, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
-- {name: 🇹🇭 泰国-曼谷-曼谷-ss-27.131.164.94:49514, server: 27.131.164.94, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
-- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 45.66.134.219, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: false}
-- {name: "[Free]+新加坡+|+02", server: sg10.holiganfan.com, port: 10088, type: trojan, password: 70d11af4-64d8-4120-ab49-ce946dd648ea, skip-cert-verify: false}
-- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 62.216.92.180, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}
-- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: hk1.v3.zz.cn.fuckword.club, port: 47605, type: trojan, password: 5f97472b-b910-32fd-bbd2-403f0c6c5ae0, skip-cert-verify: false}
-- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 62.216.92.179, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: false}
-- {name: "CA_2417 |231.24Mb", server: 138.197.162.114, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: false}
-- {name: 🇸🇬 更新地址reurl.cc/W35gV7, server: 185.171.120.144, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}
-- {name: "[Free]++Canda+-+01ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4QDY2LjExNS4xNzcuMTM2OjQ5MzM5#github.com/freefq+-+美国++5", server: ca.ganfan.space, port: 10086, type: trojan, password: 70d11af4-64d8-4120-ab49-ce946dd648ea, skip-cert-verify: false}
-- {name: "_722 |38.54Mb", server: v2.ssrsub.com, port: 158, type: vmess, uuid: 6270e596-dfa0-48a3-aad0-613ce89724b4, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v2.ssrsub.com}}
-- {name: "_729 |276.29Mb", server: 104.17.251.27, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 104.17.251.27}}
-- {name: "_741 |35.46Mb", server: t2.ssrsub.com, port: 8443, type: trojan, password: 9f665f12-29a2-4ff7-a456-c41f9443e8a7, skip-cert-verify: false}
-- {name: None, server: 79, port: None, type: ss, cipher: aes-256-cfb, password: sEscPBiAD9K$&}
-- {name: None, server: 79, port: None, type: ss, cipher: aes-256-cfb, password: sEscPBiAD9K$&}
-- {name: 🇭🇰HK_771, server: 18.162.56.143, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 18.162.56.143}}
-- {name: 2021.10.18_🇯🇵JP-🇯🇵JP_844, server: usa3-node.3366test.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8633, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ray, ws-headers: {Host: usa3-node.3366test.com}}
-- {name: 🇯🇵JP_845, server: a83679f.he.gladns.com, port: 3306, type: vmess, uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0, alterId: 32, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /t, ws-headers: {Host: a83679f.he.gladns.com}}
-- {name: 🇯🇵JP_846, server: a83679f.hc.gladns.com, port: 3306, type: vmess, uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0, alterId: 32, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /t, ws-headers: {Host: a83679f.hc.gladns.com}}
-- {name: 2021.10.18_🇷🇺RU-🇷🇺RU_948, server: ruml.jjyun.ren, port: 80, type: vmess, uuid: 190ee9db-85d6-438c-88a2-a62a4cc4c8a3, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ruml.jjyun.ren}}
-- {name: 🇸🇬SG_957, server: sg2.xh.qjnodeip.xyz, port: 2002, type: vmess, uuid: d873ec2d-82e1-3012-901a-f56e3eb776a6, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /index, ws-headers: {Host: sg2.xh.qjnodeip.xyz}}
-- {name: 🇺🇸US_1387, server: 193.123.253.102, port: 80, type: vmess, uuid: 562398c8-cb7f-4850-90eb-2fd17dccb13a, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 193.123.253.102}}
+- {name: 美国 06 Cloudflare, server: 104.16.14.226, port: 443, type: vmess, uuid: d7662dde-1d41-4c35-888b-033f1764b643, alterId: 0, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /zeduvws\?ed=2048, ws-headers: {Host: cc.1808.cf}}
+- {name: 美国 07 Cloudflare, server: 104.19.54.83, port: 443, type: vmess, uuid: d7662dde-1d41-4c35-888b-033f1764b643, alterId: 0, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /zeduvws\?ed=2048, ws-headers: {Host: cc.1808.cf}}
+- {name: 美国 08 Cloudflare, server: 104.16.107.171, port: 443, type: vmess, uuid: d7662dde-1d41-4c35-888b-033f1764b643, alterId: 0, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /zeduvws\?ed=2048, ws-headers: {Host: cc.1808.cf}}
+- {name: 美国 09 Cloudflare, server: 104.16.0.198, port: 443, type: vmess, uuid: d7662dde-1d41-4c35-888b-033f1764b643, alterId: 0, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /zeduvws\?ed=2048, ws-headers: {Host: cc.1808.cf}}
+- {name: 美国 10 Cloudflare, server: 104.21.0.0, port: 443, type: vmess, uuid: d7662dde-1d41-4c35-888b-033f1764b643, alterId: 0, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /zeduvws\?ed=2048, ws-headers: {Host: cc.1808.cf}}
+- {name: 中国 04 China, server: 1.transit.t.qjnodeip.xyz, port: 33779, type: vmess, uuid: 1439886a-ecb5-3bbf-bc65-8bfb23d72ea0, alterId: 5, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /HkqibHk02b, ws-headers: {Host: 1.transit.t.qjnodeip.xyz}}
+- {name: 中国 06 China, server: cmgz1.racernet.link, port: 1443, type: vmess, uuid: d03f3b95-e9e0-3b5b-a8e0-7f159ffbb1ec, alterId: 0, cipher: aes-128-gcm, tls: True, skip-cert-vertify: false, network: ws, ws-path: /cmgz1, ws-headers: {Host: cmgz1.racernet.link}}
+- {name: 🇨🇳-CN-122.192.189.8, server: 122.192.189.8, port: 19700, type: vmess, uuid: c0f4d26f-b870-3b0d-a77e-1786fcf52e50, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /download, ws-headers: {Host: 122.192.189.8}}
+- {name: 🇨🇳-CN-120.240.86.47, server: jm-yd-dd.xyx-xy-01.com, port: 31002, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /api, ws-headers: {Host: www.bing.com}}
+- {name: 🇯🇵-JP-153.122.174.2, server: sg.az.v1.xyx-xy-01.com, port: 17004, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /GenshinImpact.exe, ws-headers: {Host: genshin.mihoyo.com}}
+- {name: 🇨🇳-CN-122.192.87.56, server: hn-lt-02.xyx-xy-01.com, port: 34112, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ruray, ws-headers: {Host: www.bing.com}}
+- {name: 🇭🇰-HK-20.205.99.94, server: azhk.zz123.xyz, port: 54188, type: vmess, uuid: 9ec4f4fa-636b-3623-ad69-68f1f2652d24, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
+- {name: 🇨🇳-CN-116.192.172.240, server: cn-01.xyx-xy-01.com, port: 28104, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /micsoft, ws-headers: {Host: ajax.microsoft.com}}
+- {name: 🇨🇳-CN-122.192.189.8, server: 122.192.189.8, port: 19712, type: vmess, uuid: c0f4d26f-b870-3b0d-a77e-1786fcf52e50, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /download, ws-headers: {Host: 122.192.189.8}}
+- {name: 🇭🇰-HK-20.205.99.94, server: azhk.zz123.xyz, port: 46101, type: vmess, uuid: 9ec4f4fa-636b-3623-ad69-68f1f2652d24, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
+- {name: 🇹🇼-TW-36.231.70.166, server: tw003.dynu.net, port: 28181, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /api, ws-headers: {Host: www.bing.com}}
+- {name: 🇨🇳-CN-116.163.10.104, server: 116.163.10.104, port: 19610, type: vmess, uuid: c0f4d26f-b870-3b0d-a77e-1786fcf52e50, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /download, ws-headers: {Host: 116.163.10.104}}
+- {name: 🇨🇳-CN-116.192.162.123, server: qd-lt-01.xyx-xy-01.com, port: 10017, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /api, ws-headers: {Host: www.bing.com}}
+- {name: 🇹🇼-TW-114.24.27.157, server: tw-sd-v1-03.xyx-xylo.com, port: 11180, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /api, ws-headers: {Host: www.bing.com}}
+- {name: 🇨🇳-CN-223.166.145.129, server: jp-az-yixie.xyx-xy-01.com, port: 17000, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /GensImpact.exe, ws-headers: {Host: www.bing.com}}
+- {name: 🇨🇳-CN-120.240.86.47, server: jm-yd-dd.xyx-xy-01.com, port: 31003, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /api, ws-headers: {Host: www.bing.com}}
+- {name: 🇨🇳-CN-116.163.10.104, server: 116.163.10.104, port: 19600, type: vmess, uuid: c0f4d26f-b870-3b0d-a77e-1786fcf52e50, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /download, ws-headers: {Host: 116.163.10.104}}
+- {name: 🇨🇳-CN-122.192.189.8, server: 122.192.189.8, port: 19612, type: vmess, uuid: c0f4d26f-b870-3b0d-a77e-1786fcf52e50, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /download, ws-headers: {Host: 122.192.189.8}}
+- {name: 🇹🇼-TW-1.164.142.108, server: tw-sd-v1-02.xyx-xylo.com, port: 11180, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /api, ws-headers: {Host: www.bing.com}}
+- {name: 🇨🇳-CN-223.166.145.129, server: sh-lt.01.xyx-xy-01.com, port: 34173, type: vmess, uuid: b3d21653-199c-37bb-a648-9e63ff15131e, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /usray, ws-headers: {Host: www.bing.com}}
+- {name: 新加坡02, server: azhk.zz123.xyz, port: 35724, type: vmess, uuid: 323bf099-cb7b-35d3-b33f-9f8cd973d2d1, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
+- {name: 新加坡03, server: azhk.zz123.xyz, port: 32819, type: vmess, uuid: 323bf099-cb7b-35d3-b33f-9f8cd973d2d1, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
+- {name: 日本01, server: azhk.zz123.xyz, port: 34083, type: vmess, uuid: 323bf099-cb7b-35d3-b33f-9f8cd973d2d1, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: azhk.zz123.xyz}}
+- {name: 香港免流02, server: hk02.zz123.xyz, port: 80, type: vmess, uuid: 323bf099-cb7b-35d3-b33f-9f8cd973d2d1, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zz, ws-headers: {Host: a.189.cn}}
+- {name: 🇦🇶-NO-46.29.218.6, server: 46.29.218.6, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+- {name: 🇬🇧-GB-172.99.190.149, server: 172.99.190.149, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 🇬🇧-GB-172.99.190.158, server: 172.99.190.158, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: 🇬🇧-GB-172.99.190.35, server: 172.99.190.35, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 🇦🇺-AU-172.105.172.41, server: 172.105.172.41, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 🇬🇧-GB-172.99.190.149, server: 172.99.190.149, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: 🇸🇬-SG-81.90.189.85, server: 81.90.189.85, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: false}
+- {name: sw, server: 66.115.177.141, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+- {name: github.com/freefq+-+奥地利维也纳M247网络+11, server: 5.253.207.53, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+- {name: github.com/freefq+-+罗马尼亚++1, server: 79.110.54.117, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+- {name: "_656 |61.09Mb", server: v2.ssrsub.com, port: 159, type: vmess, uuid: f5487ee3-aef5-436f-adf9-673b1afe2ff7, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: v2.ssrsub.com}}
+- {name: "🇯🇵 JP_6438 |43.55Mb", server: usa3-node.3366test.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8633, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ray, ws-headers: {Host: usa3-node.3366test.com}}
+- {name: "🇯🇵 JP_6441 |38.04Mb", server: 66.42.43.239, port: 443, type: vmess, uuid: 160ce2c0-89d2-11eb-aef3-560003425baf, alterId: 12, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /zwWptVxh/, ws-headers: {Host: 66.42.43.239}}
+- {name: "🇺🇸 US_15230 |73.46Mb", server: aws.mooncloud.bike, port: 10021, type: vmess, uuid: 792f7496-a1e2-4694-96f4-5fbe5e13d68b, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: aws.mooncloud.bike}}
+- {name: "🇺🇸 US_15231 |77.69Mb", server: 13.52.238.243, port: 443, type: vmess, uuid: 6a5b2dee-6e88-46db-9275-d8c6e042c3db, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 13.52.238.243}}
+- {name: "🇺🇸 US_15235 |44.21Mb", server: azxg.mooncloud.bike, port: 10020, type: vmess, uuid: 792f7496-a1e2-4694-96f4-5fbe5e13d68b, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: azxg.mooncloud.bike}}
+- {name: "🇺🇸 US_15238 |30.69Mb", server: 1008hk.fans8.xyz, port: 80, type: vmess, uuid: 342764a3-c8e2-3528-893f-744f0f4061dc, alterId: 2, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 1008hk.fans8.xyz}}
+- {name: "🇺🇸 US_15241 |75.18Mb", server: usa5b-node.3366test.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8634, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: ray, ws-headers: {Host: usa5b-node.3366test.com}}
+- {name: "CA_2122 |221.02Mb", server: 138.197.162.114, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: false}
+- {name: "🇩🇪 DE_3251 |33.40Mb", server: 139.59.209.152, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: false}
+- {name: "🇩🇪 DE_3252 |44.56Mb", server: 5.183.179.138, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: false}
+- {name: "GB_4643 |65.67Mb", server: 138.68.179.78, port: 1443, type: trojan, password: 7x42LetRa0, skip-cert-verify: false}
+- {name: "🇳🇱 NL_7051 |53.87Mb", server: 185.171.120.144, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: false}
+- {name: "🇳🇱 NL_7053 |57.93Mb", server: 89.31.127.151, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: false}
+- {name: "🇳🇱 NL_7054 |58.07Mb", server: ned-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: false}
+- {name: "🇳🇱 NL_7057 |34.46Mb", server: 178.62.201.120, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: false}
+- {name: "🇷🇴 RO_8827 |42.66Mb", server: 185.126.116.235, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: false}
+- {name: "🇷🇴 RO_8838 |40.27Mb", server: 185.126.116.235, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}
+- {name: "🇺🇸 US_15294 |75.73Mb", server: 72.167.33.106, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: false}
+- {name: "🇺🇸 US_15296 |85.25Mb", server: 72.167.33.106, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: false}
+- {name: "🇺🇸 US_15318 |85.35Mb", server: 72.167.45.6, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: false}
+- {name: "🇺🇸 US_15320 |86.59Mb", server: 72.167.45.6, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}
+- {name: "🇺🇸 US_15335 |78.28Mb", server: usa-server-02.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}
+- {name: "🇩🇪 DE_3249 |50.35Mb", server: 79, port: 136.243.191.88, type: ss, cipher: aes-128-ctr, password: sEscPBiAD9K$&}
+- {name: "🇩🇪 DE_3250 |48.22Mb", server: 79, port: 136.243.191.85, type: ss, cipher: aes-128-ctr, password: sEscPBiAD9K$&}
+- {name: "🇳🇱 NL_7052 |54.57Mb", server: 185.171.120.144, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: false}
+- {name: "🇳🇱 NL_7056 |58.19Mb", server: ned-server-01.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: false}
+- {name: "🇺🇸 US_15339 |83.47Mb", server: usa-server-02.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: false}
+- {name: 2021.10.29_🇬🇧GB-🇬🇧GB_561, server: ukwx.52jjyun.top, port: 80, type: vmess, uuid: fa6ee7b8-6279-4c04-adf3-adbb70f71cf9, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ukwx.52jjyun.top}}
+- {name: 2021.10.29_🇭🇰HK-🇭🇰HK_571, server: 002.ap.pop.bigairport.net, port: 80, type: vmess, uuid: dad88b99-16f7-4760-ad52-bb291b9fa7dd, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 002.ap.pop.bigairport.net}}
+- {name: 🇯🇵JP_651, server: 023.ap.pop.bigairport.net, port: 12356, type: vmess, uuid: f944883a-a9fb-4ee8-b08b-aaf920f4c393, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 023.ap.pop.bigairport.net}}
+- {name: 🇯🇵JP_652, server: 034.ap.pop.bigairport.net, port: 12356, type: vmess, uuid: a6f82e7d-6e99-4a4e-8981-8e91453c13f7, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 034.ap.pop.bigairport.net}}
+- {name: 🇷🇺RU_714, server: 2.59.214.204, port: 158, type: vmess, uuid: 6d6d99b0-be8a-43bc-ad73-2fb0f1595793, alterId: 0, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /ssrsub, ws-headers: {Host: 2.59.214.204}}
+- {name: 🇷🇺RU_715, server: 193.53.127.125, port: 443, type: vmess, uuid: 8b76ab3f-e78e-454b-9a70-937c608e49b6, alterId: 10, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /jjyun, ws-headers: {Host: 193.53.127.125}}
+- {name: 🇺🇸US_979, server: 029.na.pop.bigairport.net, port: 12356, type: vmess, uuid: f944883a-a9fb-4ee8-b08b-aaf920f4c393, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 029.na.pop.bigairport.net}}
+- {name: 🇺🇸US_980, server: 009.na.pop.bigairport.net, port: 80, type: vmess, uuid: dad88b99-16f7-4760-ad52-bb291b9fa7dd, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 009.na.pop.bigairport.net}}
+- {name: 🇺🇸US_983, server: usdll.jjyun.ren, port: 443, type: vmess, uuid: bf7134c3-914d-4294-8cdf-6eda920d1a42, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /jjyunml, ws-headers: {Host: usdll.jjyun.ren}}
+- {name: 🇺🇸US_984, server: 031.ap.pop.bigairport.net, port: 12356, type: vmess, uuid: dad88b99-16f7-4760-ad52-bb291b9fa7dd, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 031.ap.pop.bigairport.net}}
+- {name: 🇺🇸US_985, server: 18.236.146.125, port: 8888, type: vmess, uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 18.236.146.125}}
+- {name: 🇺🇸US_987, server: 029.na.pop.bigairport.net, port: 12356, type: vmess, uuid: dad88b99-16f7-4760-ad52-bb291b9fa7dd, alterId: 1, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /, ws-headers: {Host: 029.na.pop.bigairport.net}}
+- {name: 🇿🇦ZA_989, server: 156.251.130.159, port: 443, type: vmess, uuid: 4ab4a477-72db-4b88-a17a-a165a1ade668, alterId: 32, cipher: auto, tls: false, skip-cert-vertify: false, network: ws, ws-path: /2532e16141e/, ws-headers: {Host: 156.251.130.159}}
