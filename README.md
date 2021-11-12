@@ -1,3 +1,6 @@
+## 访客数
+
+![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo_TopFreeProxies/count.svg)
 # TopFreeProxies
 
 ## 仓库介绍
